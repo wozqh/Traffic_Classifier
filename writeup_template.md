@@ -177,6 +177,6 @@ For the first image, the model is relatively sure that this is a stop sign (prob
 The first and the last one is certain but the others are not certain.Despite the third one,the others correct prediction appear in the top five.
 
 ### (Optional) Visualizing the Neural Network (See Step 4 of the Ipython notebook for more details)
-####1. Discuss the visual output of your trained network's feature maps. What characteristics did the neural network use to make classifications?
+#### 1. Discuss the visual output of your trained network's feature maps. What characteristics did the neural network use to make classifications?
 
 
